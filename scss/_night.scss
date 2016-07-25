@@ -39,19 +39,18 @@
 // $brand-danger:              #d9534f !default;
 
 
-// reverse / night-test
+//reverse / night-test
 $gray-dark:                 #f7f7f9 !default;
 $gray:                      #eceeef !default;
 $gray-light:                #818a91 !default;
 $gray-lighter:              #55595c !default;
 $gray-lightest:             #373a3c !default;
 
-$brand-primary:             #0359a2 !default;
-$brand-success:             #0359a2 !default;
-$brand-info:                #0359a2 !default;
-$brand-warning:             #0359a2 !default;
-$brand-danger:              #0359a2 !default;
-
+$brand-primary:             #057ee4 !default;
+$brand-success:             #5cb85c !default;
+$brand-info:                #5bc0de !default;
+$brand-warning:             #f0ad4e !default;
+$brand-danger:              #d9534f !default;
 
 
 // Variables
@@ -280,7 +279,7 @@ $btn-primary-color:              #fff !default;
 $btn-primary-bg:                 $brand-primary !default;
 $btn-primary-border:             $btn-primary-bg !default;
 
-$btn-secondary-color:            $gray-dark !default;
+$btn-secondary-color:            #373a3c !default;
 $btn-secondary-bg:               #fff !default;
 $btn-secondary-border:           #ccc !default;
 
@@ -363,14 +362,14 @@ $form-icon-danger: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My
 //
 // Dropdown menu container and contents.
 
-$dropdown-bg:                    #fff !default;
+$dropdown-bg:                    $gray-lightest !default;
 $dropdown-border-color:          rgba(0,0,0,.15) !default;
 $dropdown-border-width:          $border-width !default;
 $dropdown-divider-bg:            #e5e5e5 !default;
 
 $dropdown-link-color:            $gray-dark !default;
 $dropdown-link-hover-color:      darken($gray-dark, 5%) !default;
-$dropdown-link-hover-bg:         #f5f5f5 !default;
+$dropdown-link-hover-bg:         $component-active-bg !default;
 
 $dropdown-link-active-color:     $component-active-color !default;
 $dropdown-link-active-bg:        $component-active-bg !default;
@@ -378,6 +377,10 @@ $dropdown-link-active-bg:        $component-active-bg !default;
 $dropdown-link-disabled-color:   $gray-light !default;
 
 $dropdown-header-color:          $gray-light !default;
+
+
+
+
 
 
 // Z-index master list
