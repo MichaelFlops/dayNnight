@@ -19,7 +19,7 @@ Using:- If you want to simply use the library, you all you need is the night.min
 
 ###Testing:
 
-If you want to make global changes / test / generate different color schemes for possible themes, download the entire repo and follow the setup instructions from bootstrap here (link).
+If you want to make global changes / test / generate different color schemes for possible themes, download the entire repo and follow the setup instructions from bootstrap [here](http://v4-alpha.getbootstrap.com/).
 
 ##Philosophy:
  - Why should a button be blue 24/7? 
