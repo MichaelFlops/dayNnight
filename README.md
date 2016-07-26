@@ -22,12 +22,9 @@ If you want to simply use the library, all you need to do is clone the repo and 
 
 If you want to make global changes / test / generate different color schemes for possible themes, download the entire repo and follow the setup instructions from bootstrap [here](http://v4-alpha.getbootstrap.com/).
 
-##Philosophy:
+##Shower Thoughts:
  - Why should a button be blue 24/7? 
  - Web should be a ever more growing reflection of real life
  - Lightbulb alert, changing UI’s based on data captured from client
- - Weird Zone:
- - psych article of color psychology, showing inclinations towards different colors among genders. Postulations on how to change ui in a better way for the user, every time, always. {Aim is to NOT make a ‘girly’ or ‘boyish’ internet.} Always be dedicated to a better experience for the user.
 
-
-Feel free to share, expand, and discuss <3 
+<3
