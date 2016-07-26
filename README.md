@@ -1,5 +1,5 @@
 #Day N Night
-### A library built for bootstrap v4 that changes ui based on client's time of day.
+### Changing global bootstrap ui based on time of day.
 	
 <a href="https://youtu.be/VrDfSZ_6f4U" target="_blank"><img src="http://img.youtube.com/vi/VrDfSZ_6f4U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
