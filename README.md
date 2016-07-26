@@ -13,7 +13,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###Quickstart:
 
-Using:- If you want to simply use the library, you all you need is the night.min.css and dayNnight.js files linked into your site.
+If you want to simply use the library, all you need to do is clone the repo and grab just the night.min.css and dayNnight.js files, then link into your web pages.
+
   - `<link href="../../dist/css/night.min.css" rel="stylesheet">`
   - `<script src="dayNnight.js"></script>`
 
