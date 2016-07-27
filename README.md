@@ -7,7 +7,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 #####This library is for(and literally a git clone of) bootstrap (v4 Alpha+), made by the awesome humans and dogs at twitter.
 #### [Checkout Bootstrap Here](http://getbootstrap.com)
 	
-######![](http://imgur.com/udbvoei)
+[Imgur](http://i.imgur.com/udbvoei.gifv)
 
 
 ##[Live Example Here](http://daynnight.paperplane.io)
